@@ -169,20 +169,50 @@ and change passwords.
 
 To get started with the Educational Support Platform, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-repo-url.git`
+1. Clone the repository::
 
-2. Set up a local PHP development environment (e.g., XAMPP, WAMP, or a web 
-server with PHP support).
+   [source]
+   ----
+   git clone https://github.com/MrPeterManda/AURUM.git
+   ----
 
-3. Import the database schema provided in `database.sql`.
+2. **Install PHP on Linux**::
 
-4. Configure the database connection settings in `config.php`.
+   If you don't already have PHP installed on your Linux system, you can do so by running the following commands::
 
-5. Start your local web server.
+   [source]
+   ----
+   sudo apt update
+   sudo apt install php php-cli php-fpm php-json php-common php-mysql php-zip php-gd php-mbstring php-curl php-xml php-bcmath php-json
+   ----
 
-6. Visit `http://localhost:your-port` in your web browser.
+   Verify that PHP is installed by running `php -v`.
 
-7. Sign up as a student or donor and start using the platform.
+3. Start your local web server.
+
+4. **Install the PHP Server Plugin in Visual Studio Code**::
+
+   - Open Visual Studio Code.
+   - Go to the Extensions view by clicking the square icon on the left sidebar or by pressing `Ctrl+Shift+X`.
+   - Search for "PHP Server" in the extensions search bar.
+   - Install the "PHP Server" extension by brapifra. Click the "Install" button.
+
+5. **Open the Project in Visual Studio Code**::
+
+   - Open Visual Studio Code.
+   - Click on "File" and then "Open Folder."
+   - Select the folder where you cloned the Educational Support Platform repository.
+
+6. **Use the PHP Server Plugin**::
+
+   - With the project open in Visual Studio Code, click on the PHP Server icon in the Activity Bar on the side (it looks like a PHP logo).
+   - A menu will appear, click on "Start PHP Server."
+   - Once the PHP server is started, you can open any PHP file, preferably starting with `faq.php`, by navigating to the file in the File Explorer on the left and double-clicking it.
+
+9. Visit `http://localhost:your-port` in your web browser.
+
+10. Sign up as a student or donor and start using the platform.
+
 
 == Contributing
 
