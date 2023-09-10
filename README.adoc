@@ -167,7 +167,11 @@ and change passwords.
 
 == Getting Started
 
-To get started with the Educational Support Platform, follow these steps:
+To get started with the Educational Support Platform:
+
+If you are connected to the internet simply go to this url: https://withu-by-aurum.onrender.com/
+
+OR to run it locally on your machine by following these steps below (use Linux OS):
 
 1. Clone the repository::
 
