@@ -7,6 +7,9 @@ WORKDIR /var/www/html
 # Copy your PHP application files to the container
 COPY . .
 
+# Copy faq.php to index.php (our new entry point)
+RUN cp faq.php index.php
+
 # Install any PHP extensions or dependencies your app requires
 RUN docker-php-ext-install mysqli
 
