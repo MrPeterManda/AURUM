@@ -111,5 +111,12 @@ include_once 'includes/header.php';
 </body>
 
 </html>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+  new Crate({
+    server: '1136736554522521683',
+    channel: '1136736555407511614'
+    
+  })
+</script>
 
 

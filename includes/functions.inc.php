@@ -148,7 +148,7 @@ function loginUser($conn, $Email, $Password){
         $_SESSION["Fname"] = $uidExists["Fname"];
         $_SESSION["Email"] = $uidExists["email"];
         $_SESSION["Password"] = $uidExists["password"];
-        header("location: ../Firstcampaign.php");
+        header("location: ../otp.php");
         exit();
     }
 }

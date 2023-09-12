@@ -1,15 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    
+    
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>WithU FAQs</title>
+
     <!--font awesome-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
     <!--css file-->
     <link rel="stylesheet" href="css/faq.css" />
+    
     <link rel="stylesheet" href="css/Firstcampaign.css">
+
+
 	<!-- Modernizr JS -->
 	<script src="js/Firstcampaign.js"></script>
     <meta charset="utf-8">
@@ -21,12 +28,21 @@
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 
-    <title>5xRuby Bootstrap4 - Homework03</title>
-</head>
-<body>
-    <?php
-        include_once 'includes/header.php';
-    ?>
+    <title>WithU</title>
+  </head>
+
+
+  
+  <body>
+
+  
+  <?php
+    include_once 'includes/header.php';
+?>
+
+
+
+
     <!-- head-menu==================================================== -->
     <!-- <div class="head-menu">
         <div class="container">
@@ -101,6 +117,10 @@
         </div>
     </div>
 </head> -->
+
+
+<body>
+
 
     <div class="accordion">
         <div class="image-box">
@@ -184,3 +204,11 @@
 </body>
 
 </html>
+
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+  new Crate({
+    server: '1136736554522521683',
+    channel: '1136736555407511614'
+    
+  })
+</script>
