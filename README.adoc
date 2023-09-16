@@ -217,6 +217,52 @@ OR to run it locally on your machine by following these steps below (use Linux O
 
 10. Sign up as a student or donor and start using the platform.
 
+**Ensure Docker is Installed**:: 
+   - Make sure you have Docker installed on your local development machine. 
+   - You can download and install Docker Desktop for Windows or Mac or Docker Engine for Linux, depending on your operating system.
+
+   -Linux:
+   -Navigate to Your Project Directory: Open a terminal or command prompt 
+   -and navigate to the directory where your docker-compose.yml file is located.
+
+   -Build Your Docker Containers: 
+      - Run the following command to build your Docker containers:
+      - docker-compose build
+
+      - Start Your Docker Containers: After the build is successful, start your containers with the following command:
+      - docker-compose up
+      - This command will start both the web and db containers as defined in your docker-compose.yml file.
+
+# Running a Docker Image
+
+Instructions on how to run a Docker image using Windows Subsystem for Linux 2 (WSL2) and Docker Desktop on Windows.
+
+## Prerequisites
+
+- Docker Desktop for Windows
+- WSL2
+
+## Instructions
+
+### Using WSL2
+
+1. Open your WSL2 terminal.
+2. Pull the Docker image using the command: `docker pull <image-name>`.
+3. Run the Docker image using the command: `docker run -it <image-name>`.
+
+### Using Docker Desktop on Windows
+
+1. Open Docker Desktop.
+2. Click on 'Images' on the left side menu.
+3. Click on the 'Pull' button and enter the name of the image you want to pull.
+4. Once the image is pulled, click on the 'Run' button next to the image name.
+5. In the configuration window, set up any ports or volumes as needed, then click 'Run'.
+
+Please replace `<image-name>` with the name of your Docker image.
+
+## Troubleshooting
+
+If you encounter any issues while running your Docker image, refer to the official Docker documentation.
 
 == Contributing
 

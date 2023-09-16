@@ -5,6 +5,9 @@ require_once 'includes/conn.inc.php';
 $sql = "SELECT * FROM donees WHERE status = 'approved'";
 $result = mysqli_query($conn, $sql);
 
+if (!$result) {
+    die("Error: " . mysqli_error($conn)); // Add error handling
+}
 ?>
 
 <!DOCTYPE html>
