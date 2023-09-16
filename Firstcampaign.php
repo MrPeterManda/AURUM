@@ -385,7 +385,7 @@
                         <div class="service-list">
                             <div class="d-flex flex-row">
                                 <span><i class="fas fa-dollar-sign"></i></span>
-                                <h4><a href="donation_form.php">Charity & Donation</a></h4>      
+                                <h4><a href="createcampaignMali.php">Charity & Donation</a></h4>      
                             </div>
                             <p>You can use our platform to request for donations .</p>
                         </div>
