@@ -354,14 +354,14 @@
                         </div>
                         <div class="service-list">
                             <div class="d-flex flex-row flex-sm-row-reverse">
-                                <span><i class="fas fa-video"></i></span>
+                                <span><i class="fas fa-heartbeat"></i></span>
                                 <h4><a href="https://www.mentalhealthsa.org.za/">Mental Health</a></h4>      
                             </div>
                             <p>We care,if you have mental health issues contact us we will connect you with the riht people.</p>
                         </div>
                         <div class="service-list">
                             <div class="d-flex flex-row flex-sm-row-reverse">
-                                <span><i class="fas fa-home"></i></span>
+                                <span><i class="fas fa-users"></i></span>
                                 <h4><a href="https://www.studytogether.com/">Study Partners</a></h4>      
                             </div>
                             <p>In our network of students we can connect you with the best study partners  .</p>
@@ -377,15 +377,15 @@
                     <div class="block06-item">
                         <div class="service-list">
                             <div class="d-flex flex-row">
-                                <span><i class="fas fa-eye"></i></span>
+                                <span><i class="fas fa-search"></i></span>
                                 <h4><a href="https://natmatch.com/psychint/applicants/strategy.html">Internship Matching Algorithm</a></h4>      
                             </div>
                             <p>An algorithm that matches students with relevant internship opportunities based on their skills, interests, and career goals.</p>
                         </div>
                         <div class="service-list">
                             <div class="d-flex flex-row">
-                                <span><i class="fas fa-dollar-sign"></i></span>
-                                <h4><a href="createcampaignMali.php">Charity & Donation</a></h4>      
+                                <span><i class="fas fa-hands-helping"></i></span>
+                                <h4><a href="createcampaignMali.php">Student Crowdfunding</a></h4>      
                             </div>
                             <p>You can use our platform to request for donations .</p>
                         </div>
