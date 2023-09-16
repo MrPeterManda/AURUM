@@ -348,21 +348,21 @@
                         <div class="service-list">
                             <div class="d-flex flex-row flex-sm-row-reverse">
                                 <span><i class="fas fa-book"></i></span>
-                                <h4><a href="student_education.html">Student Education</a></h4>      
+                                <h4><a href="https://edu.google.com/">Student Education</a></h4>      
                             </div>
                             <p>Majority of student tend to mess up when they come to university because they lack student education about student life .</p>
                         </div>
                         <div class="service-list">
                             <div class="d-flex flex-row flex-sm-row-reverse">
                                 <span><i class="fas fa-video"></i></span>
-                                <h4><a href="mental_health.html">Mental Health</a></h4>      
+                                <h4><a href="https://www.mentalhealthsa.org.za/">Mental Health</a></h4>      
                             </div>
                             <p>We care,if you have mental health issues contact us we will connect you with the riht people.</p>
                         </div>
                         <div class="service-list">
                             <div class="d-flex flex-row flex-sm-row-reverse">
                                 <span><i class="fas fa-home"></i></span>
-                                <h4><a href="study_partners.html">Study Partners</a></h4>      
+                                <h4><a href="https://www.studytogether.com/">Study Partners</a></h4>      
                             </div>
                             <p>In our network of students we can connect you with the best study partners  .</p>
                         </div>
@@ -378,21 +378,21 @@
                         <div class="service-list">
                             <div class="d-flex flex-row">
                                 <span><i class="fas fa-eye"></i></span>
-                                <h4><a href="internship_matching.html">Internship Matching Algorithm</a></h4>      
+                                <h4><a href="https://natmatch.com/psychint/applicants/strategy.html">Internship Matching Algorithm</a></h4>      
                             </div>
                             <p>An algorithm that matches students with relevant internship opportunities based on their skills, interests, and career goals.</p>
                         </div>
                         <div class="service-list">
                             <div class="d-flex flex-row">
                                 <span><i class="fas fa-dollar-sign"></i></span>
-                                <h4><a href="charity_donation.html">Charity & Donation</a></h4>      
+                                <h4><a href="donation_form.php">Charity & Donation</a></h4>      
                             </div>
                             <p>You can use our platform to request for donations .</p>
                         </div>
                         <div class="service-list">
                             <div class="d-flex flex-row">
                                 <span><i class="fas fa-bell"></i></span>
-                                <h4><a href="news_events.html">News & Events</a></h4>      
+                                <h4><a href="https://10times.com/southafrica">News & Events</a></h4>      
                             </div>
                             <p>Receive the latest news and events happening in all campuses .</p>
                         </div>
