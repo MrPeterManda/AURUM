@@ -378,9 +378,9 @@
                         <div class="service-list">
                             <div class="d-flex flex-row">
                                 <span><i class="fas fa-eye"></i></span>
-                                <h4>Ngubane</h4>      
+                                <h4>Internship Matching Algorithm</h4>      
                             </div>
-                            <p>Nibh vel velit auctor aliquet. Aenean ituin This is Photoshop\'s version .</p>
+                            <p>An algorithm that matches students with relevant internship opportunities based on their skills, interests, and career goals.</p>
                         </div>
                         <div class="service-list">
                             <div class="d-flex flex-row">
