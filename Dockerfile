@@ -16,8 +16,8 @@ RUN chown -R www-data:www-data /var/www/html
 # Make sure Apache has read access to the directory
 RUN chmod -R 755 /var/www/html
 
-# Configure Apache to use index.php as the default DirectoryIndex file
-RUN echo "DirectoryIndex index.php" >> /etc/apache2/apache2.conf
+# Copy Firstcampaign.php to index.php (our new entry point)
+RUN cp Firstcampaign.php index.php
 
 # Expose port 80 for Apache
 EXPOSE 80
